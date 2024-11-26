@@ -2,7 +2,7 @@
 - 👀 I’m interested in me torna desenvolvedora de web, frontend, backend, web, mobiel
 - 🌱 I’m currently learning aprendendo JavaScript, HTML, CSS, REACT
 - 💞️ I’m looking to collaborate on aprendendo com DEVEMDOBRO, MOTIRO, DIO
-- 📫 How to reach me email ketstefany.ks@gmail.com ou whats 31993781604
+- 📫 How to reach me email ketstefany.ks@gmail.com ou whats 31991817194
 
 <!---
 Ketcarvalho/Ketcarvalho is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
